@@ -1,0 +1,10 @@
+**/.vscode
+**/.cache
+**/.idea
+**/.DS_Store
+**/node_modules
+**/.env
+**/dist
+**/build
+
+download_img/

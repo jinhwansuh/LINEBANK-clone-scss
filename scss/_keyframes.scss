@@ -1,0 +1,12 @@
+@keyframes fadein {
+  from { opacity:0; }
+  to { opacity:1; }
+}
+@keyframes move-rotate {
+  0% {transform: rotate(0) translateX(0px) translateY(0) ; opacity: 0;}
+  30% {opacity: .5; transform: rotate(180deg);}
+  70% {opacity: 1; transform: rotate(270deg)}
+  100% {transform: translateX(300px) translateY(-200px) rotate(360deg); opacity: 0;}
+}
+
+// scale(0) scale(1) 

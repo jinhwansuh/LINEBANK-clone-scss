@@ -1,0 +1,20 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="154" height="154" viewBox="0 0 154 154">
+    <defs>
+        <linearGradient id="decwhoho3a" x1="50%" x2="50%" y1="-266.325%" y2="50%">
+            <stop offset="0%" stop-color="#47EB8F"/>
+            <stop offset="100%" stop-color="#22D257"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(40 40)">
+        <circle cx="44.424" cy="44.424" r="44.424" fill="#07B53B"/>
+        <g transform="translate(23.42 22.046)">
+            <path fill="url(#decwhoho3a)" d="M9.455.48c4.694 0 8.5 3.804 8.5 8.499 0 4.694-3.806 8.499-8.5 8.499s-8.5-3.805-8.5-8.5C.955 4.285 4.761.48 9.455.48zm23.099 0c4.694 0 8.5 3.804 8.5 8.499 0 4.694-3.806 8.499-8.5 8.499s-8.5-3.805-8.5-8.5c0-4.694 3.806-8.499 8.5-8.499z"/>
+            <path stroke="#22D257" stroke-linecap="round" stroke-width="3.5" d="M30.815 37.118L34.257 41.994"/>
+            <path stroke="#22D257" stroke-linecap="round" stroke-width="3.5" d="M7.751 37.118L11.193 41.994" transform="matrix(-1 0 0 1 18.944 0)"/>
+            <circle cx="21.004" cy="23.638" r="20.049" fill="#FFF"/>
+            <text fill="#07B53B" font-family="Volte-Bold, Volte" font-size="18" font-weight="bold">
+                <tspan x="11.5" y="29.119">24</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
